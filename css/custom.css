@@ -111,8 +111,8 @@ span.img-caption{
 
 .welcome-button{
 	background-color: transparent;
-	border-radius: 0px 0px 0px 0px;
-	border: 3px solid #000;
+	border-radius: 1px;
+	border: 1px solid #000;
 	font-family:'Brandon Grotesque', Sans-Serif;
 	font-size: 15px;
 	color: #000;
@@ -123,6 +123,10 @@ span.img-caption{
 	color: #fff;
 	background-color: #000;
 	border-color: #000;
+}
+
+.welcome-button:active {
+	background-color: #fff;
 }
 
 .master-heading{
