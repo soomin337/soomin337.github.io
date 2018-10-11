@@ -36,7 +36,7 @@ img.nav-bar-img{
 }
 
 a.navbar-brand{
-	font-family:'Lato', Sans-Serif;
+	font-family:'Brandon Grotesque', Sans-Serif;
 	font-size: 
 }
 
@@ -48,7 +48,7 @@ a.navbar-brand{
 }
 
 	a.float-nav-link{
-		font-family: 'Lato', Sans-Serif;
+		font-family: 'Brandon Grotesque', Sans-Serif;
 		color: #ffffff;
 		font-size: 14px;
 		font-weight: 600;
@@ -65,7 +65,7 @@ img{
 
 /*Font Override Rules*/
 h1, h2, h3, h4, h5, h6 {
-	font-family:'Lato', Sans-Serif;
+	font-family:'Brandon Grotesque', Sans-Serif;
 	margin-bottom: 20px;
 }
 	h1.welcome-special{
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	h2.welcome-special-sub{
-		font-family: 'Lato', Sans-Serif;
+		font-family: 'Brandon Grotesque', Sans-Serif;
 		font-size: 30px;
 	}
 
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 p, li, span, a {
-	font-family: 'Lato', Sans-Serif;
+	font-family: 'Brandon Grotesque', Sans-Serif;
 	text-align: justify;
 	font-weight: 300;
 }
