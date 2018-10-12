@@ -32,7 +32,7 @@ img.nav-bar-img{
 }
 
 a.navbar-brand{
-	font-family:'Brandon Grotesque', Sans-Serif;
+	font-family:'Monteserrat', Sans-Serif;
 }
 
 
@@ -44,7 +44,7 @@ a.navbar-brand{
 }
 
 	a.float-nav-link{
-		font-family: 'Brandon Grotesque', Sans-Serif;
+		font-family: 'Monteserrat', Sans-Serif;
 		color: #ffffff;
 		font-size: 14px;
 		font-weight: 600;
@@ -61,7 +61,7 @@ img{
 
 /*Font Override Rules*/
 h1, h2, h3, h4, h5, h6 {
-	font-family:'Brandon Grotesque', Sans-Serif;
+	font-family:'Monteserrat', Sans-Serif;
 	margin-bottom: 20px;
 }
 	h1.welcome-special{
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	h2.welcome-special-sub{
-		font-family: 'Brandon Grotesque', Sans-Serif;
+		font-family: 'Monteserrat', Sans-Serif;
 		font-size: 30px;
 		font-weight: lighter;
 	}
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 p, li, span, a {
-	font-family: 'Brandon Grotesque', Sans-Serif;
+	font-family: 'Monteserrat', Sans-Serif;
 	text-align: justify;
 	font-weight: 300;
 }
@@ -113,7 +113,7 @@ span.img-caption{
 	background-color: transparent;
 	border-radius: 1px;
 	border: 1px solid #000;
-	font-family:'Brandon Grotesque', Sans-Serif;
+	font-family:'Monteserrat', Sans-Serif;
 	font-size: 15px;
 	color: #000;
 	text-transform: uppercase;
