@@ -32,7 +32,7 @@ img.nav-bar-img{
 }
 
 a.navbar-brand{
-	font-family:'Raleway', Sans-Serif;
+	font-family:'Brandon Grotesque', Sans-Serif;
 }
 
 
@@ -44,7 +44,7 @@ a.navbar-brand{
 }
 
 	a.float-nav-link{
-		font-family: 'Raleway', Sans-Serif;
+		font-family: 'Brandon Grotesque', Sans-Serif;
 		color: #ffffff;
 		font-size: 14px;
 		font-weight: 600;
@@ -61,29 +61,30 @@ img{
 
 /*Font Override Rules*/
 h1, h2, h3, h4, h5, h6 {
-	font-family:'Raleway', Sans-Serif;
+	font-family:'Brandon Grotesque', Sans-Serif;
 	margin-bottom: 20px;
+
 }
 	h1.welcome-special{
 		font-size: 70px;
-		color: #ffffff;
 		font-weight: bold;
+	
 	}
 
 	h2.welcome-special-sub{
-		font-family: 'Raleway', Sans-Serif;
+		font-family: 'Brandon Grotesque', Sans-Serif;
 		font-size: 30px;
 		font-weight: lighter;
 	}
 
 	h3{
 		text-transform: uppercase;
-		color: #4392F1;
+		color: #ffffff;
 		letter-spacing: -0.5px;
 	}
 
 p, li, span, a {
-	font-family: 'Raleway', Sans-Serif;
+	font-family: 'Brandon Grotesque', Sans-Serif;
 	text-align: justify;
 	font-weight: 300;
 }
@@ -114,7 +115,7 @@ span.img-caption{
 	background-color: transparent;
 	border-radius: 1px;
 	border: 1px solid #000;
-	font-family:'Raleway', Sans-Serif;
+	font-family:'Brandon Grotesque', Sans-Serif;
 	font-size: 15px;
 	color: #000;
 	text-transform: uppercase;
@@ -131,6 +132,7 @@ span.img-caption{
 }
 
 .master-heading{
+	color: #ffffff;
 	padding-top: 50px;	
 }
 
@@ -140,6 +142,15 @@ span.img-caption{
 
 .slide-show{
 	padding: 30px 0px 50px 0px;
+}
+
+.nav-item-journal:hover{
+	color: #ffffff;
+	background-color: #000;
+}
+.nav-item-journal{
+	font-size: x-large;
+	font-weight: bold;
 }
 
 /*Footer*/
