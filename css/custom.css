@@ -4,7 +4,7 @@ Modify this file to your hearts content and make your website look awesome!*/
 
 
 body{
-	background-color: #222222;
+	background-color: #111111;
 	padding-top: 80px;
 }
 
@@ -159,9 +159,16 @@ span.img-caption{
 	padding-top: 30px;
 	width: 100%;
 	min-height: 100px;
-	background-color: #989898;
-	border-top: 1px solid #727272;
+	background-color: #222222;
 }
+.footerfor1 {
+	position:absolute;
+	padding-top: 30px;
+	bottom:0;
+	width:100%;
+	min-height: 100px;
+	background-color: #222222;
+ }
 
 .col-md-6, h2{
 	font-size: medium;
