@@ -169,5 +169,13 @@ span.img-caption{
 	color: #fff;
 }
 
+.col-md-6, li{
+	color: #fff;
+}
+
+.col-md-6, b{
+	font-weight: bolder;
+}
+
 
 
