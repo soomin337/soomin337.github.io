@@ -65,10 +65,6 @@ img{
 	color: #222222;
 }
 
-.table {
-	font-family: 'Brandon Grotesque', sans-serif;
-	color: #fff;
-}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family:'Brandon Grotesque', Sans-Serif;
@@ -117,14 +113,28 @@ span.img-caption{
 .welcome-message{
 	margin-top: 200px;
 }
+.welcome-button-container-talk{
+	color: #222222;
+	background-color: #fff;
+	margin-top: 20px;
+	text-transform: uppercase;
+	border-radius: 5px;
+	border: 1px;
+	width: max-content;
+}
 
+.welcome-button-container-talk:hover{
+	color: #fff;
+	background-color: #222222;
+	
+}
 .welcome-button-container{
 	margin-top: 20px;
 }
 
 .welcome-button{
 	background-color: transparent;
-	border-radius: 1px;
+	border-radius: 5px;
 	border: 1px solid #000;
 	font-family:'Brandon Grotesque', Sans-Serif;
 	font-size: 15px;
