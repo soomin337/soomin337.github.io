@@ -73,6 +73,7 @@ h1, h2, h3, h4, h5, h6 {
 
 	h2.welcome-special-sub{
 		font-family: 'Brandon Grotesque', Sans-Serif;
+		color: #fff;
 		font-size: 30px;
 		font-weight: lighter;
 	}
