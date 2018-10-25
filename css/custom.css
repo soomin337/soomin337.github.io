@@ -79,7 +79,6 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	h3{
-		text-transform: uppercase;
 		color: #ffffff;
 		letter-spacing: -0.5px;
 	}
@@ -162,6 +161,12 @@ span.img-caption{
 	min-height: 100px;
 	background-color: #989898;
 	border-top: 1px solid #727272;
+}
+
+.col-md-6, h2{
+	font-size: medium;
+	font-weight: lighter;
+	color: #fff;
 }
 
 
